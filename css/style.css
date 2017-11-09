@@ -1,0 +1,19 @@
+#first {
+	width: 50%;
+	height: 200px;
+	/*margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: auto;
+	margin-left: auto;*/
+
+	margin: 10px auto 10px auto;
+	
+	border-style: solid black;
+	border-width: 2px;
+	padding: 25px;
+	background-color: rgb(225,225,225);
+}
+
+#second {
+
+}
