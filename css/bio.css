@@ -26,5 +26,8 @@ li {
 	display: inline;
 	padding: 5px;
 }
+body {
+	background-color: red;
+}
 
 
