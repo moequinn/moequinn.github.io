@@ -30,6 +30,10 @@ li {
 	padding: 5px;
 }
 
+.frame {
+	width: 100%;
+}
+
 a:hover {
 	background-color: #85C1E9;
 }
